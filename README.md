@@ -74,4 +74,4 @@ Uçakta: W ile gaz ver, hız 25'i geçince fareyi yukarı çek.
 
 ## 📄 Lisans
 
-İstediğin lisansı ekleyebilirsin (örneğin MIT).
+ MIT
