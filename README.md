@@ -22,18 +22,19 @@ Tarayıcıda çalışan, tek dosyalık 3D zombi hayatta kalma oyunu. Kurulum yok
 **Zombiler**
 - Sürüler halinde gelir, her dalgada güçlenir
 - Oyuncak oranlı insan figürü (büyük kafa, eller, ayakkabılar)
-- **Geceleri mutantlar** çıkar: büyük, dayanıklı ve çok sert vuruyorlar. Gün doğunca güneşte yanıp ölürler
+- **Geceleri korkunç yaratıklar** çıkar: dev mutantlar, uzun ince solgun gezginler ve yerde sürünen hızlı canavarlar. Gün doğunca güneşte yanıp ölürler
 - Hepsinin sesi var, gece geçişinde ürkütücü bir ses çalar
 
 **Araçlar ve silahlar**
-- Araba, tank ve uçak
+- Araba ve tank
 - Tank mermisi zombileri havaya savurur, kan fışkırır, ekran sarsılır
 - 4 silah: AK-47, pompalı, tabanca, taramalı
 - Yumruk, fener, şarjör sistemi, can/mermi toplama
 
 **Diğer**
-- Silahlı askerler: sen ateş etmedikçe ekibe katılıp zombileri vurur, ona ateş edersen sana saldırır
-- 10 katlı binaların üstünde roket atan helikopterler
+- Az sayıda silahlı asker: sana yaklaşınca ekibe katılıp zombileri vurur, sana asla saldırmaz
+- İki binilebilir helikopter (5 ve 10 katlı binaların çatısında). 4-5 dakikada bir destek helikopteri zombilere roket atar
+- Arada 100'e yakın zombiden oluşan dev sürüler gelir
 - Mini harita, skor, dalga sistemi
 
 ## 🎮 Kontroller
@@ -48,11 +49,9 @@ Tarayıcıda çalışan, tek dosyalık 3D zombi hayatta kalma oyunu. Kurulum yok
 | Şarjör | R | ↺ |
 | Silah değiştir | Q | 🔄 |
 | Yumruk | E | 👊 |
-| Kapı aç/kapat | G | 🚪 |
+| Kapı aç/kapat, asansör | G | 🚪 |
 | Fener | L | 🔦 |
 | Araca bin / in | F | 🚗 |
-
-Uçakta: W ile gaz ver, hız 25'i geçince fareyi yukarı çek.
 
 ## ▶️ Çalıştırma
 
@@ -74,4 +73,4 @@ Uçakta: W ile gaz ver, hız 25'i geçince fareyi yukarı çek.
 
 ## 📄 Lisans
 
- MIT
+İstediğin lisansı ekleyebilirsin (örneğin MIT).
