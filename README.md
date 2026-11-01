@@ -73,4 +73,4 @@ Tarayıcıda çalışan, tek dosyalık 3D zombi hayatta kalma oyunu. Kurulum yok
 
 ## 📄 Lisans
 
-İstediğin lisansı ekleyebilirsin (örneğin MIT).
+MIT
