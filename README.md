@@ -21,8 +21,8 @@ Tarayıcıda çalışan, tek dosyalık 3D zombi hayatta kalma oyunu. Kurulum yok
 
 **Zombiler**
 - Sürüler halinde gelir, her dalgada güçlenir
-- Oyuncak oranlı insan figürü (büyük kafa, eller, ayakkabılar)
-- **Geceleri korkunç yaratıklar** çıkar: dev mutantlar, uzun ince solgun gezginler ve yerde sürünen hızlı canavarlar. Gün doğunca güneşte yanıp ölürler
+- İnsan oranlı, kanlı, eklemli zombiler: gündüz yürürler, gece koşarlar. Gündüz az sayıda iki kafalı zombi görülür
+- **Geceleri korkunç yaratıklar** çıkar: dev iki kafalı şişman mutantlar, dev mutantlar, uzun ince solgun gezginler ve yerde sürünen hızlı canavarlar. Gün doğunca güneşte yanıp ölürler
 - Hepsinin sesi var, gece geçişinde ürkütücü bir ses çalar
 
 **Araçlar ve silahlar**
@@ -48,9 +48,9 @@ Tarayıcıda çalışan, tek dosyalık 3D zombi hayatta kalma oyunu. Kurulum yok
 | Zıpla | Boşluk | 🦘 |
 | Şarjör | R | ↺ |
 | Silah değiştir | Q | 🔄 |
-| Yumruk | E | 👊 |
-| Kapı aç/kapat, asansör | G | 🚪 |
-| Fener | L | 🔦 |
+| Araçta kamera (iç/dış) | V | - |
+| Etkileşim: kapı, asansör, yatak (gece uyu), yoksa yumruk | E | ✋ |
+| El feneri | G | 🔦 |
 | Araca bin / in | F | 🚗 |
 
 ## ▶️ Çalıştırma
